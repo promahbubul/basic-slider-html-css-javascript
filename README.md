@@ -8,4 +8,4 @@
 <a href="https://basic-slider-html-css-javascript.vercel.app/" style="" ><img src="./banner.gif"></a>
 </div>
 
-<video src="./intro.mp4" autoplay loop autoplay></video>
+<video src="./intro.mp4" autoplay controls loop autoplay></video>
